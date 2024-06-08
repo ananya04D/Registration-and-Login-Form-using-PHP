@@ -1,0 +1,41 @@
+body{
+    padding: 50px;
+    background-color: teal;;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: beige;
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+}
+.form-group{
+    margin-bottom: 30px;
+}
+.form-btn {
+    display: flex;
+    justify-content: center;
+}
+.btn-primary {
+    background-color: teal;
+    border-color: teal;
+    color: white;
+}
+.btn-primary:hover {
+    background-color: darkcyan;
+    border-color: darkcyan;
+}
+.heading {
+    color: teal;
+    text-align: center;
+    margin-bottom: 20px;;
+}
+.btn-warning{
+    background-color: teal;
+    border-color: teal;
+    color: white;
+}
+.btn-warning:hover{
+    background-color: darkcyan;
+    border-color: darkcyan;
+}
