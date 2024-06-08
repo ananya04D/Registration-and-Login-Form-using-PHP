@@ -1,2 +1,2 @@
 # Registration-and-Login-Form-using-PHP
-PHP-based login &amp; registration form with session management. Securely stores user data, provides validation &amp; feedback, and includes a protected dashboard. Bootstrap for responsive design. Ideal for web apps needing user authentication.
+Welcome to my PHP Login & Registration Form repository! This project offers a simple yet robust solution for user authentication and registration. With PHP sessions, password hashing, and Bootstrap for styling, it ensures security and a user-friendly interface. 
